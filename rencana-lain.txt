@@ -1,4 +1,6 @@
 rencana lain
 -ngoding pake template
 -menggunakan laravel
+-menggunakan ci 3
+-menggunakan javascript
 
